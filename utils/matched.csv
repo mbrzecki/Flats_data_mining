@@ -1,0 +1,675 @@
+Item;Key;Match;id
+street;cybernetyki;cybernetyki;0
+street;jana kochanowskiego;kochanowskiego jana;1
+street;józefa balcerzaka;balcerzaka józefa;2
+street;renesansowa;renensansowa;3
+street;jana kochanowskiego 14 a;kochanowskiego jana;4
+street;kasprowicza;kasprowicza jana;5
+street;williama szekspira;szekspira williama;6
+street;stefana ¿eromskiego;¿eromskiego stefana;7
+street;bogus³awskiego;bogus³awskiego wojciecha;8
+street;jana kasprowicza;kasprowicza jana;9
+street;aleja s³owiañska;s³owiañska;10
+street;antoniego magiera;magiera antoniego;11
+street;zbigniewa romaszewskiego;romaszewskiego zbigniewa;12
+street;aleja w³adys³awa reymonta ;reymonta w³adys³awa;13
+street;wojciecha bogus³awskiego;bogus³awskiego wojciecha;14
+street;leopolda staffa;staffa leopolda;15
+street;romaszewskiego;romaszewskiego zbigniewa;16
+street;w³adys³awa stanis³awa reymonta;reymonta w³adys³awa;17
+street;kochanowskiego;kochanowskiego jana;18
+street;duracza teodora;teodora duracza;19
+street;dani³owskiego;dani³owskiego gustawa;20
+street;zjednoczenia;zjednoczenia aleja;21
+street;""""""""""""""" zgrupowania ak """"""""""""""""¿mija""""""""""""""""""""""""""""""";zgrupowania ak ¿mija;22
+street;aleja w³adys³awa reymonta;reymonta w³adys³awa;23
+street;w³adys³awa smoleñskiego;smoleñskiego w³adys³awa;24
+street;micha³a oczapowskiego;oczapowskiego micha³a;25
+street;przybyszewskiego;stanis³awa przybyszewskiego;26
+street;¿eromskiego;¿eromskiego stefana;27
+street;s³odowiec;s³odowiec;28
+street;poli gojawiczyñskiej;gojawiczyñskiej poli;29
+street;adama mickiewicza;mickiewicza adama;30
+street;hanki czaki;czaki hanki;31
+street;ludwika rydygiera;rydygiera ludwika;32
+street;zygmunta krasiñskiego;krasiñskiego zygmunta;33
+street;jana kozietulskiego;kozietulskiego jana leona;34
+street;ks. teofila boguckiego;boguckiego teofila;35
+street;stanis³awa to³wiñskiego;to³wiñskiego stanis³awa;36
+street;kaliny jêdrusik;jêdrusik kaliny;37
+street;3 oddzielna sady ¿oliborskie;sady ¿oliborskie;38
+street;juliusza s³owackiego;s³owackiego juliusza;39
+street;rafa³a krajewskiego;krajewskiego rafa³a;40
+street;krasiñskiego;krasiñskiego zygmunta;41
+street;kajetana koŸmiana;koŸmiana kajetana;42
+street;henryka dembiñskiego;dembiñskiego henryka;43
+street;ludwikaka rydygiera;rydygiera ludwika;44
+street;gojawiczyñskiej;gojawiczyñskiej poli;45
+street;mickiewicza;mickiewicza adama;46
+street;ludwika kondratowicza;kondratowicza ludwika;47
+street;szymona askenazego;askenazego szymona;48
+street;tadeusza korzona;korzona tadeusza;49
+street;piotra skargi;ks. piotra skargi;50
+street;w³adys³awa syrokomli;syrokomli w³adys³awa;51
+street;piotra wysockiego;wysockiego piotra;52
+street;micha³a ossowskiego;ossowskiego micha³a;53
+street;kondratowicza;kondratowicza ludwika;54
+street;aleksandra gajkowicza;gajkowicza aleksandra;55
+street;wac³awa tokarza;tokarza wac³awa;56
+street;trocka;trocka;57
+street;heleny junkiewicz;junkiewicz heleny;58
+street;oskara sosnowskiego;sosnowskiego oskara;59
+street;jana ¿abiñskiego;¿abiñskiego jana;60
+street;j. ¿abiñskiego;¿abiñskiego jana;61
+street;filipiny p³askowickiej;p³askowickiej filipiny;62
+street;komisji edukacji narodowej;komisji edukacji narodowej, al.;63
+street;wilhelma konrada roentgena;roentgena wilhelma konrada ;64
+street;stok³osy;pasa¿ stok³osy;65
+street;wawrzyñca surowieckiego;surowieckiego wawrzyñca;66
+street;wojciecha bogumi³a jastrzêbowskiego;jastrzêbowskiego wojciecha bogumi³a;67
+street;aleja komisji edukacji narodowej;komisji edukacji narodowej, al.;68
+street;franciszka marii lanciego;lanciego franciszka marii;69
+street;wac³awa lachmana;lachmana wac³awa;70
+street;marii grzegorzewskiej;grzegorzewskiej marii;71
+street;pála telekiego;telekiego pála;72
+street;bronis³awa pietraszewicza lota;pietraszewicza bronis³awa „lota”;73
+street;jerzego zaruby;zaruby jerzego;74
+street;""""""""""""""" mariana sengera """"""""""""""""cichego""""""""""""""""""""""""""""""";mariana sengera „cichego”;75
+street;ludwika hirszfelda;hirszfelda ludwika;76
+street;paszkiewicza;paszkiewicza ludwika;77
+street;henryka raabego;raabego henryka;78
+street;stefana szolc-rogoziñskiego;szolc-rogoziñskiego stefana;79
+street;kazimierza je¿ewskiego;je¿ewskiego kazimierza;80
+street;""""""""""""""" andrzeja romockiego """"""""""""""""morro""""""""""""""""""""""""""""""";andrzeja romockiego morro;81
+street;dembowskiego;dembowskiego edwarda;82
+street;kopciñskiego;kopciñskiego stefana;83
+street;jana miklaszewskiego;miklaszewskiego jana;84
+street;franciszka ³ukaszczyka;³ukaszczyka franciszka;85
+street;ludwika paszkiewicza;paszkiewicza ludwika;86
+street;stanis³awa kazury;kazury stanis³awa;87
+street;rtm. witolda pileckiego;pileckiego witolda, rtm.;88
+street;romualda mielczarskiego;mielczarskiego romualda;89
+street;okolice alternatywy;alternatywy;90
+street;stefana kopciñskiego;kopciñskiego stefana;91
+street;przybylskiego;czes³awa przybylskiego;92
+street;miklaszewskiego;miklaszewskiego jana;93
+street;paw³a edmunda strzeleckiego;strzeleckiego paw³a edmunda;94
+street;stanis³awa herbsta;herbsta stanis³awa;95
+street;""""""""""""""" bronis³awa pietraszewicza """"""""""""""""lota""""""""""""""""""""""""""""""";pietraszewicza bronis³awa „lota”;96
+street;surowieckiego;surowieckiego wawrzyñca;97
+street;mielczarskiego;mielczarskiego romualda;98
+street;jerzego iwanowa-szajnowicza;iwanowa-szajnowicza jerzego;99
+street;jana zaorskiego;zaorskiego jana;100
+street;""""""""""""""" jana rodowicza """"""""""""""""anody""""""""""""""""""""""""""""""";jana rodowicza anody;101
+street;""""""""""""""" aleja jana rodowicza """"""""""""""""anody""""""""""""""""""""""""""""""";jana rodowicza anody;102
+street;przy ba¿antarni (okolica;przy ba¿antarni;103
+street;jacka kaczmarskiego;skwer jacka kaczmarskiego;104
+street;jana paw³a woronicza;woronicza jana paw³a;105
+street;fryderyka joliot-curie;joliot-curie fryderyka;106
+street;ludwika idzikowskiego;idzikowskiego ludwika;107
+street;piwarskiego jana;piwarskiego jana feliksa;108
+street;jana pieka³kiewicza;pieka³kiewicza jana;109
+street;batorego stefana;stefana batorego;110
+street;niepodleg³oœci;aleja niepodleg³oœci;111
+street;aleksandra patkowskiego;patkowskiego aleksandra;112
+street;jurija gagarina;gagarina jurija;113
+street;gen. w³adys³awa sikorskiego;aleja gen. w³adys³awa sikorskiego;114
+street;karola chodkiewicza;jana karola chodkiewicza;115
+street;boles³awa limanowskiego;limanowskiego boles³awa;116
+street;wolfganga amadeusza mozarta;mozarta wolfganga amadeusza;117
+street;pieka³kiewicza;pieka³kiewicza jana;118
+street;antoniego edwarda odyñca;odyñca antoniego edwarda;119
+street;aleksandra gierymskiego;gierymskiego aleksandra;120
+street;stanis³awa ¿aryna;¿aryna stanis³awa;121
+street;micha³a ba³uckiego;ba³uckiego micha³a;122
+street;jana maklakiewicza;maklakiewicza jana;123
+street;""""""""""""""" batalionu ak """"""""""""""""karpaty""""""""""""""""""""""""""""""";batalionu ak „karpaty”;124
+street;j. sobieskiego;jana iii sobieskiego;125
+street;mariana smoluchowskiego;smoluchowskiego mariana;126
+street;adama naruszewicza;naruszewicza adama;127
+street;artura malawskiego;malawskiego artura;128
+street;dominika merliniego;merliniego dominika;129
+street;antoniego odyñca;odyñca antoniego edwarda;130
+street;gra¿yny gêsickiej;gêsickiej gra¿yny;131
+street;skwer skwer jacka kaczmarskiego;skwer jacka kaczmarskiego;132
+street;cybulskiego;zbyszka cybulskiego;133
+street;malawskiego;malawskiego artura;134
+street;wita stwosza;stwosza wita;135
+street;pu³ku baszta;pu³ku ak „baszta”;136
+street;idzikowskiego;idzikowskiego ludwika;137
+street;d¹browskiego jaros³awa;jaros³awa d¹browskiego;138
+street;boya-¿eleñskiego;tadeusza boy-¿eleñskiego;139
+street;wyœcigowa;aleja wyœcigowa;140
+street;ignacego krasickiego;krasickiego ignacego;141
+street;jana feliksa piwarskiego;piwarskiego jana feliksa;142
+street;ludwika narbutta;narbutta ludwika;143
+street;chodkiewicza karola;jana karola chodkiewicza;144
+street;jana sobieskiego;jana iii sobieskiego;145
+street;stanis³awa grzesiuka;grzesiuka stanis³awa;146
+street;juliana fa³ata;fa³ata juliana;147
+street;ludwika nabielaka;nabielaka ludwika;148
+street;artura grottgera;grottgera artura;149
+street;antoniego józefa madaliñskiego;madaliñskiego antoniego józefa;150
+street;wojciecha ¿ywnego;¿ywnego wojciecha;151
+street;""""""""""""""" grupy ak """"""""""""""""pó³noc""""""""""""""""""""""""""""""";grupy ak „pó³noc”;152
+street;batalionu ak;batalionu ak „ryœ”;153
+street;grottgera;grottgera artura;154
+street;cybenetyki;cybernetyki;155
+street;franciszka kostrzewskiego;kostrzewskiego franciszka;156
+street;kwiatowa / ;kwiatowa;157
+street;micha³a drzyma³y;drzyma³y micha³a;158
+street;micha³a spisaka;spisaka micha³a;159
+street;walerego s³awka;s³awka walerego;160
+street;che³moñskiego;józefa che³moñskiego;161
+street;mariana keniga;keniga mariana;162
+street;w³adys³awa hassa;hassa w³adys³awa;163
+street;jana marcina szancera;szancera jana marcina;164
+street;stanis³awa wojciechowskiego;wojciechowskiego stanis³awa;165
+street;marcina kasprzaka;kasprzaka marcina;166
+street;prymasa tysi¹clecia;aleja prymasa tysi¹clecia;167
+street;juliana konstantego ordona;juliusza konstantego ordona;168
+street;edwarda gibalskiego;gibalskiego edwarda;169
+street;gen. józefa bema;józefa bema;170
+street;aleja solidarnoœci;aleja „solidarnoœci”;171
+street;p³ocka;p³ocka;172
+street;emila zegad³owicza;zegad³owicza emila;173
+street;emanuela ringelbluma;ringelbluma emanuela;174
+street;2 z widn¹  ksiêcia janusza;ksiêcia janusza;175
+street;solidarnoœci;aleja „solidarnoœci”;176
+street;gibalskiego;gibalskiego edwarda;177
+street;sowiñskiego;sowiñskiego józefa;178
+street;tadeusza krêpowieckiego;krêpowieckiego tadeusza;179
+street;józefa sowiñskiego;sowiñskiego józefa;180
+street;skwer ks. jerzego popie³uszki;skwer ksiêdza jerzego popie³uszki;181
+street;""""""""""""""" aleja """"""""""""""""solidarnoœci""""""""""""""""""""""""""""""";aleja „solidarnoœci”;182
+street;jana krysta;krysta jana;183
+street;skwer ks. kard. stefana wyszyñskiego;skwer kard. stefana wyszyñskiego;184
+street;kajetana garbiñskiego;garbiñskiego kajetana;185
+street;karolkowa / leszno;karolkowa;186
+street;szwankowskiego;szwankowskiego eugeniusza;187
+street;gen. tadeusza pe³czyñskiego;pe³czyñskiego tadeusza, gen.;188
+street;stanis³awa lencewicza;lencewicza stanis³awa;189
+street;mieczys³awa wolfkego;wolfkego mieczys³awa;190
+street;jana kêdzierskiego;kêdzierskiego jana;191
+street;dywizjonu;dywizjonu 303;192
+street;andrzeja so³tana;so³tana andrzeja;193
+street;waleriana czumy;gen. waleriana czumy;194
+street;antoniego kocjana;kocjana antoniego;195
+street;tadeusza pe³czyñskiego;pe³czyñskiego tadeusza, gen.;196
+street;batalionów ch³opskich/lazurowa;batalionów ch³opskich;197
+street;wac³awa g¹siorowskiego;g¹siorowskiego wac³awa;198
+street;kocjana;ko³czana;199
+street;gen. sylwestra kaliskiego;kaliskiego sylwestra, gen.;200
+street;p³k. witolda ³okuciewskiego;³okuciewskiego witolda, p³k.;201
+street;franciszka kawy;kawy franciszka;202
+street;batalionów ch³opskich/ lazurowa;batalionów ch³opskich;203
+street;anieli krzywoñ;krzywoñ anieli;204
+street;kaden-bandrowskiego;kaden-bandrowskiego juliusza;205
+street;rosy bailly;bailly rosy;206
+street;romualda millera;millera romualda;207
+street;blatona;jana blatona;208
+street;mariana wyrzykowskiego;wyrzykowskiego mariana;209
+street;aleksandra kamiñskiego;kamiñskiego aleksandra;210
+street;jana husa;husa jana;211
+street;miko³aja tr¹by;tr¹by miko³aja;212
+street;gioacchino rossiniego;rossiniego gioacchino ;213
+street;ostródza;ostródzka;214
+street;el¿biety barszczewskiej;barszczewskiej el¿biety;215
+street;anastazego kowalczyka;kowalczyka anastazego;216
+street;antoniego pajdaka;pajdaka antoniego;217
+street;skarbka z gór 124 d;skarbka z gór;218
+street;feliksa pancera;pancera feliksa;219
+street;pabla picassa;picassa pabla;220
+street;adama cio³kosza;cio³kosza adama;221
+street;edwarda wittiga;wittiga edwarda;222
+street;leona berensona;berensona leona;223
+street;dzikiej kaczki;dzikiej kaczki;224
+street;emilii gierczak;gierczak emilii;225
+street;ignacego paderewskiego;paderewskiego ignacego jana;226
+street;bronis³awa gembarzewskiego;gembarzewskiego bronis³awa;227
+street;micha³a okurza³ego;okurza³ego micha³a;228
+street;kordiana / paderewskiego;paderewskiego ignacego jana;229
+street;""""""""""""""" gen. antoniego chruœciela """"""""""""""""montera""""""""""""""""""""""""""""""";antoniego chruœciela montera;230
+street;emilii plater;plater emilii;231
+street;zygmunta s³omiñskiego;s³omiñskiego zygmunta;232
+street;jana paw³a ii;aleja jana paw³a ii;233
+street;ludwika zamenhofa;zamenhofa ludwika;234
+street;aleja armii ludowej;armii ludowej, al.;235
+street;lecha kaczyñskiego;kaczyñskiego lecha;236
+street;wojciecha górskiego;górskiego wojciecha;237
+street;wspólna / ;wspólna;238
+street;przyjació³ ;aleja przyjació³;239
+street;konstytucji;plac konstytucji;240
+street;wyzwolenia;aleja wyzwolenia;241
+street;aleja;aleja ró¿;242
+street;leona schillera;schillera leona;243
+street;idŸkowskiego;idŸkowskiego adama;244
+street;zbawiciela;plac zbawiciela;245
+street;aleja jana chrystiana szucha;szucha jana chrystiana, al.;246
+street;s³omiñskiego;s³omiñskiego zygmunta;247
+street;nowogrodzka62b;nowogrodzka;248
+street;przyjació³ (okolice;aleja przyjació³;249
+street;marka edelmana;edelmana marka;250
+street;jana henryka d¹browskiego;plac d¹browskiego jana henryka;251
+street;fryderyka chopina;chopina fryderyka;252
+street;braci œniadeckich;œniadeckich;253
+street;aleje solidarnoœci;aleja „solidarnoœci”;254
+street;krzysztofa kamila baczyñskiego;baczyñskiego krzysztofa kamila;255
+street;romualda traugutta;traugutta romualda;256
+street;rynek rynek starego miasta;rynek starego miasta;257
+street;alejao maja;aleja 3 maja;258
+street;jana chrystiana szucha;szucha jana chrystiana, al.;259
+street;mokotowska piêkna;mokotowska;260
+street;park szczêœliwicki;budki szczêœliwickie;261
+street;czêstochowska / ;czêstochowska;262
+street;stefana baleya;baleya stefana;263
+street;w³adys³awa korotyñskiego;korotyñskiego w³adys³awa;264
+street;maurycego mochnackiego;mochnackiego maurycego;265
+street;walentego skorochód-majewskiego;skorochód-majewskiego walentego;266
+street;ul harfowa;harfowa;267
+street;jerozolimskie;aleje jerozolimskie;268
+street;andrzeja krzyckiego;krzyckiego andrzeja;269
+street;wac³awa sierpiñskiego;sierpiñskiego wac³awa;270
+street;aleksandra gieysztora;gieysztora aleksandra;271
+street;franciszka klimczaka;klimczaka franciszka;272
+street;prymasa augusta hlonda;hlonda augusta, ks. prymasa;273
+street;branickiego;branickiego adama;274
+street;stanis³awa kostki potockiego;kostki-potockiego stanis³awa;275
+street;adama branickiego;branickiego adama;276
+street;aleja rzeczypospolitej;rzeczypospolitej;277
+street;kard. augusta hlonda;hlonda augusta, ks. prymasa;278
+street;krzysztofa kieœlowskiego;kieœlowskiego krzysztofa;279
+street;teodorowicza;teodorowicza józefa;280
+street;stanis³awa kostki potockiego bez prowizji;kostki-potockiego stanis³awa;281
+street;ksiêdza prymasa augusta hlonda;hlonda augusta, ks. prymasa;282
+street;rzeczypospolitej;rzeczypospolitej;283
+street;abp. józefa teodorowicza;teodorowicza józefa;284
+street;ledóchowskiej;ledóchowskiej urszuli;285
+street;batalionu ak w³ochy;"""""""batalionu ak """"""""w³ochy""""""""""""""";286
+street;juliana chroœcickiego;ks. juliana chroœcickiego;287
+street;franciszka hynka;hynka franciszka;288
+street;broniewskiego;w³adys³awa broniewskiego;289
+street;smoleñskiego;smoleñskiego w³adys³awa;290
+street;wólczyñska (okolice;wólczyñska;291
+street;schroegera;schroegera efraima;292
+street;woodrowa wilsona;plac wilsona thomasa woodrowa;293
+street;rydygiera;rydygiera ludwika;294
+street;s³owackiego;s³owackiego juliusza;295
+street;przasnyska 4 - splace;przasnyska;296
+street;jêdrusik;jêdrusik kaliny;297
+street;kormoranów (okolica;kormoranów;298
+street;hirszfelda;hirszfelda ludwika;299
+street;dybowskiego;dybowskiego benedykta;300
+street;woronicza;woronicza jana paw³a;301
+street;merliniego;merliniego dominika;302
+street;oœ. marina rajska;marynarska;303
+street;d¹browskiego;jaros³awa d¹browskiego;304
+street;aleja sikorskiego;skrzetuskiego jana;305
+street;gintrowskiego (rzymowskiego;przemys³awa gintrowskiego;306
+street;rzymowskiego;wincentego rzymowskiego;307
+street;gintrowskiego;przemys³awa gintrowskiego;308
+street;ordona;juliusza konstantego ordona;309
+street;kasprzaka;kasprzaka marcina;310
+street;juliusza ordona;juliusza konstantego ordona;311
+street;tyszkiewicza;tyszkiewicza eustachego;312
+street;4 na woli przy rondzie daszyñskiego;rondo daszyñskiego;313
+street;pe³czyñskiego;pe³czyñskiego tadeusza, gen.;314
+street;osmañczyka 16 / obroñców tobruku;obroñców tobruku;315
+street;siodlarska (okolice;siodlarska;316
+street;belliniego;belliniego vincenzo;317
+street;osiedle derby;osiedle;318
+street;vivaldiego;vivaldiego antonia;319
+street;zamenhofa;zamenhofa ludwika;320
+street;pl. trzech krzy¿y / nowogrodzka;plac trzech krzy¿y;321
+street;noakowskiego;stanis³awa noakowskiego;322
+street;dickensa;karola dickensa;323
+street;korotyñskiego;korotyñskiego w³adys³awa;324
+street;krzyckiego;krzyckiego andrzeja;325
+street;bruzdowa zawady;bruzdowa;326
+street;wilanów - janczarów;janczarów;327
+street;warszawska(okolice;warszawska;328
+street;dantego;dantego alighieri;329
+street;zuga;zuga bogumi³a;330
+street;reymonta;reymonta w³adys³awa;331
+street;andersena;andersena hansa christiana;332
+street;kwitn¹ca (okolice;kwitn¹ca;333
+street;kasprowicza (okolice;kasprowicza jana;334
+street;rudnickiego;rudnickiego klemensa stanis³awa;335
+street;promyka;kazimierza promyka;336
+street;popie³uszki;ks. jerzego popie³uszki;337
+street;dygata;stanis³awa dygata;338
+street;okolica mickiewicza;mickiewicza adama;339
+street;zaj¹czka;gen. józefa zaj¹czka;340
+street;wilsona;plac wilsona thomasa woodrowa;341
+street;2-pokojowe najtañsze rentownoœæ 9% blisko trocka;trocka;342
+street;500m do trocka;trocka;343
+street;2-pokojowe z du¿¹ altan¹ blisko trocka przedsprzeda¿;trocka;344
+street;3-pokojowe blisko trocka przedsprzeda¿!;trocka;345
+street;praga-pó³noc 2- najtañsze ! idealne na wynajem przy metrze wileñska;wileñska;346
+street;praga-pó³noc kawalerka najtañsze ! idealne na wynajem przy metrze wileñska;wileñska;347
+street;dembego;stefana dembego;348
+street;lachmana;lachmana wac³awa;349
+street;gandhi;indiry gandhi;350
+street;roentgena;roentgena wilhelma konrada ;351
+street;herbsta;herbsta stanis³awa;352
+street;sengera;mariana sengera „cichego”;353
+street;romockiego;andrzeja romockiego morro;354
+street;raabego;raabego henryka;355
+street;kraushara;kraushara aleksandra;356
+street;chodkiewicza;jana karola chodkiewicza;357
+street;narbutta / pu³awska;pu³awska;358
+street;ok. krasickiego;krasickiego ignacego;359
+street;s³u¿ew nad dolink¹ batuty;batuty;360
+street;bruna;juliana bruna;361
+street;bia³y kamieñ/gara¿/taras/pole mokotowskie;bia³y kamieñ;362
+street;czerska/przy ³azienkach/idealnie ciche/;czerska;363
+street;ró¿yckiego;ró¿yckiego ludomira;364
+street;batorego;stefana batorego;365
+street;obrze¿na (okolice;obrze¿na;366
+street;madaliñskiego;madaliñskiego antoniego józefa;367
+street;przy parku promenada / ciche / z widokiem na zieleñ;promenada;368
+street;drzyma³y;drzyma³y micha³a;369
+street;hennela;hennela tadeusza;370
+street;keniga;keniga mariana;371
+street;bodycha;stanis³awa bodycha;372
+street;pereca;pereca icchaka lejba;373
+street;dwa oddzielne przy planowanej stacji ksiêcia janusza;ksiêcia janusza;374
+street;3 na woli nieopodal ronda daszyñskiego;rondo daszyñskiego;375
+street;p³ocka-inwestycja na iiq.;p³ocka;376
+street;bema;józefa bema;377
+street;p³ocka- inwestycja na iiq.;p³ocka;378
+street;staszica;staszica stanis³awa;379
+street;p³ocka-inwestycja na iiq2019r.;p³ocka;380
+street;wolfkego;wolfkego mieczys³awa;381
+street;osmañczyka;edmunda jana osmañczyka;382
+street;deyny;kazimierza deyny;383
+street;bo³tucia;gen. miko³aja bo³tucia;384
+street;czumy;gen. waleriana czumy;385
+street;sucharskiego;sucharskiego henryka, majora;386
+street;rostworowskiego;gen. stanis³awa rostworowskiego;387
+street;kawy;kawy franciszka;388
+street;millera;millera romualda;389
+street;pancera;pancera feliksa;390
+street;kawalerka przy trasie toruñskiej;przy trasie;391
+street;botewa;christa botewa;392
+street;barei;stanis³awa barei;393
+street;paderewskiego;paderewskiego ignacego jana;394
+street;dubois;stanis³awa dubois;395
+street;szucha;szucha jana chrystiana, al.;396
+street;kopernika;miko³aja kopernika;397
+street;mi³a / apartament / widok;mi³a;398
+street;andersa;gen. w³adys³awa andersa;399
+street;górskiego;górskiego wojciecha;400
+street;3 maja;aleja 3 maja;401
+street;aleja szucha;szucha jana chrystiana, al.;402
+street;tuwima;tuwima juliana;403
+street;œwiêtojerska/bonifraterska;bonifraterska;404
+street;solec okolice;solec;405
+street;asnyka;asnyka adama;406
+street;niemcewicza;juliana ursyna niemcewicza;407
+street;solariego;solariego antoniego;408
+street;hlonda;hlonda augusta, ks. prymasa;409
+street;ruczaj 117 a;ruczaj;410
+street;gieysztora;gieysztora aleksandra;411
+street;klimczaka;klimczaka franciszka;412
+street;klimczaka / sarmacka;sarmacka;413
+street;mazowiecka bez prowizji;mazowiecka;414
+street;krasinskiego;krasiñskiego zygmunta;415
+street;okolice belwederskiej;belwederska;416
+street;okolice zakroczymskiej;zakroczymska;417
+neighbourhood;m³ociny;m³ociny;418
+neighbourhood;2 blisko !las bielañski!;las bielañski;419
+neighbourhood;stare bielany/ z em i z ogrodem;stare bielany;420
+neighbourhood;galeria mokotów;stary mokotów;421
+neighbourhood;green mokotów;stary mokotów;422
+neighbourhood;apartamenty mokotów park;stary mokotów;423
+neighbourhood;bia³o³êcka;kobia³ka;424
+neighbourhood;k¹ty grodziskie;grodzisk;425
+neighbourhood;2 pokojowe tarchomin;tarchomin;426
+neighbourhood;ruda;marymont-ruda;427
+neighbourhood;tylko u nas 2 w sadach ¿oliborskich!;sady ¿oliborskie;428
+neighbourhood;idealna inwestycja na bródnie. wprowadŸ siê ju¿ w tym roku!;bródno;429
+neighbourhood;przedsprzeda¿ apartamentów! wierzbno! 0 % prowizji! bezpoœrednio od dewelopera! cena do negocjacji!;wierzbno;430
+neighbourhood;wyprzeda¿ projektu! od wierzbno! przedsprzeda¿ mieszkañ! ekskluzywny apartament - w 5 min w !;wierzbno;431
+neighbourhood;odbiory mieszkañ ju¿ w sierpniu! osiedle w parku;sielce;432
+neighbourhood;osiedle na terenie skarpy mokotowskiej park arkadia;sielce;433
+neighbourhood;apartament z widokiem na wis³ê! bezpoœrednio! bez prowizji! ! powiœle!;powiœle;434
+neighbourhood;powiœle!2 tarasu z widokiem na wis³ê! jedyna oferta w internecie!;powiœle;435
+street;flisa;flisa marcina;436
+street;jelonki;jelonka;437
+street;kartograficzna 2 ;kartograficzna;438
+street;imielin stefana szolc-rogoziñskiego;szolc-rogoziñskiego stefana;439
+street;jana nowaka-jeziorañskiego;nowaka-jeziorañskiego jana;440
+street;dwudziestolatków;aleja dwudziestolatków;441
+street;zygmunta modzelewskiego;modzelewskiego zygmunta;442
+street;samuela bogumi³a lindego;lindego samuela bogumi³a;443
+street;antoniego czechowa;czechowa antoniego;444
+street;1-go sierpnia;1 sierpnia;445
+street;ul brzozowa;brzozowa;446
+street;juliusza kaden-bandrowskiego;kaden-bandrowskiego juliusza;447
+street;unii lubelskiej;plac unii lubelskiej;448
+street;praga solidarnoœci;aleja „solidarnoœci”;449
+street;sempo³owskiej stefanii;stefanii sempo³owskiej;450
+street;józefa szanajcy;szanajcy józefa;451
+street;adama jarzêbskiego;jarzêbskiego adama;452
+street;marki tadeusza koœciuszki;koœciuszki tadeusza;453
+street;aleja krakowska;krakowska, al.;454
+street;imielin rtm. witolda pileckiego;pileckiego witolda, rtm.;455
+street;antoniego malczewskiego;malczewskiego antoniego;456
+street;moczyd³o tadeusza krêpowieckiego;krêpowieckiego tadeusza;457
+street;rabindranatha tagore;tagore rabindranatha;458
+street;aleja stanów zjednoczonych;stanów zjednoczonych, al.;459
+street;tadeusza boya-¿eleñskiego;tadeusza boy-¿eleñskiego;460
+street;pp³k. zbigniewa stanis³awa kiedacza;kiedacza zbigniewa stanis³awa, pp³k.;461
+street;jelonki karola irzykowskiego;irzykowskiego karola;462
+street;fr. joliot-curie;joliot-curie fryderyka;463
+street;jelonki stanis³awa szobera;szobera stanis³awa;464
+street;wilanowska;wilanowska;465
+street;cierlicka;cieplicka;466
+street;imielin wilhelma konrada roentgena;roentgena wilhelma konrada ;467
+street;stok³osy wawrzyñca surowieckiego;surowieckiego wawrzyñca;468
+street;augustów;augustówka;469
+street;ostódzka;ostródzka;470
+street;stanis³awa staszica;staszica stanis³awa;471
+street;praga jana zamoyskiego;zamoyskiego jana;472
+street;jelonki;jelonka;473
+street;jelonki anieli krzywoñ;krzywoñ anieli;474
+street;kartograficzna 2 ;kartograficzna;475
+street;imielin stefana szolc-rogoziñskiego;szolc-rogoziñskiego stefana;476
+street;jana nowaka-jeziorañskiego;nowaka-jeziorañskiego jana;477
+street;dwudziestolatków;aleja dwudziestolatków;478
+street;zygmunta modzelewskiego;modzelewskiego zygmunta;479
+street;samuela bogumi³a lindego;lindego samuela bogumi³a;480
+street;antoniego czechowa;czechowa antoniego;481
+street;widawska / obroñców tobruku;obroñców tobruku;482
+street;ul brzozowa;brzozowa;483
+street;juliusza kaden-bandrowskiego;kaden-bandrowskiego juliusza;484
+street;unii lubelskiej;plac unii lubelskiej;485
+street;praga solidarnoœci;aleja „solidarnoœci”;486
+street;sempo³owskiej stefanii;stefanii sempo³owskiej;487
+street;józefa szanajcy;szanajcy józefa;488
+street;adama jarzêbskiego;jarzêbskiego adama;489
+street;marki tadeusza koœciuszki;koœciuszki tadeusza;490
+street;aleja krakowska;krakowska, al.;491
+street;imielin rtm. witolda pileckiego;pileckiego witolda, rtm.;492
+street;antoniego malczewskiego;malczewskiego antoniego;493
+street;moczyd³o tadeusza krêpowieckiego;krêpowieckiego tadeusza;494
+street;rabindranatha tagore;tagore rabindranatha;495
+street;aleja stanów zjednoczonych;stanów zjednoczonych, al.;496
+street;tadeusza boya-¿eleñskiego;tadeusza boy-¿eleñskiego;497
+street;pp³k. zbigniewa stanis³awa kiedacza;kiedacza zbigniewa stanis³awa, pp³k.;498
+street;latawiec lecha kaczyñskiego;kaczyñskiego lecha;499
+street;jelonki karola irzykowskiego;irzykowskiego karola;500
+street;fr. joliot-curie;joliot-curie fryderyka;501
+street;jelonki stanis³awa szobera;szobera stanis³awa;502
+street;wilanowska;wilanowska;503
+street;imielin wilhelma konrada roentgena;roentgena wilhelma konrada ;504
+street;stok³osy wawrzyñca surowieckiego;surowieckiego wawrzyñca;505
+street;augustów;augustówka;506
+street;ostódzka;ostródzka;507
+street;stanis³awa staszica;staszica stanis³awa;508
+street;imielin wilhelma roentgena;roentgena wilhelma konrada ;509
+street;marymont;marymoncka;510
+street;kartograficzna kawalerka z 60 m2 ogródkiem;kartograficzna;511
+street;borowego;wac³awa borowego;512
+street;j.s.bacha;jana sebastiana bacha;513
+street;¿aryna;¿aryna stanis³awa;514
+street;bacha;jana sebastiana bacha;515
+street;wolfgego;wolfkego mieczys³awa;516
+street;petofiego;sándora petöfiego;517
+street;rondo wiatraczna;wiatraczna;518
+street;karola linneusza;linneusza karola;519
+street;jana bytnara;jana bytnara „rudego”;520
+street;narbutta / skwer s³onimskiego;skwer antoniego s³onimskiego;521
+street;boya ¿eleñskiego;tadeusza boy-¿eleñskiego;522
+street;wac³awa ¿enczykowskiego;¿enczykowskiego wac³awa;523
+street;stanis³awa kierbedzia;kierbedzia stanis³awa;524
+street;imielin ferdynanda magellana;magellana ferdynanda;525
+street;imielin paw³a edmunda strzeleckiego;strzeleckiego paw³a edmunda;526
+street;olbrachta;jana olbrachta;527
+street;kêdzierskiego;kêdzierskiego jana;528
+street;tagorea rabindranntha;tagore rabindranatha;529
+street;imielin jana miklaszewskiego;miklaszewskiego jana;530
+street;imielin ludwika hirszfelda;hirszfelda ludwika;531
+street;aleje jana paw³a ii;aleja jana paw³a ii;532
+street;za ¿elazn¹ bram¹;plac ¿elaznej bramy;533
+street;os. ostrobramska;ostrobramska;534
+street;d³ugosza;d³uga;535
+street;stok³osy komisji edukacji narodowej;komisji edukacji narodowej, al.;536
+street;jary cybisa;cybisa jana;537
+street;bellotiego;bellottiego;538
+street;gornoslaska;górnoœl¹ska;539
+street;.poznañska;poznañska;540
+street;burkowska;burakowska;541
+street;al wilanowska;aleja wilanowska;542
+street;stok³osy wac³awa lachmana;lachmana wac³awa;543
+street;jerozolimskie ;aleje jerozolimskie;544
+street;w³adys³awa skoczylasa;skoczylasa w³adys³awa;545
+street;fryderyka joliot curie;joliot-curie fryderyka;546
+street;jary dunikowskiego;xawerego dunikowskiego;547
+street;jelonki kazimierza wyki;wyki kazimierza;548
+street;icchoka lejba pereca;pereca icchaka lejba;549
+street;bluszczañska;bluszczañska;550
+street;jerzego waszyngtona;aleja jerzego waszyngtona;551
+street;sobieskiego;jana iii sobieskiego;552
+street;garbiñskiego;garbiñskiego kajetana;553
+street;""" """"solidarnoœci""""""";aleja „solidarnoœci”;554
+street;jana paw³a/ solidarnoœci;aleja „solidarnoœci”;555
+street;stanis³awa worcella;worcella stanis³awa;556
+street;marcina kasprzaka/prymasa tysi¹clecia;aleja prymasa tysi¹clecia;557
+street;œwiêtego stanis³awa;œw. stanis³awa;558
+street;skwer wyszyñskiego;skwer kard. stefana wyszyñskiego;559
+street;sw.stanislawa;œw. stanis³awa;560
+street;prymasa tysi¹clecia 79 a;aleja prymasa tysi¹clecia;561
+street;al solidarnoœci;aleja „solidarnoœci”;562
+street;sieczna 72 a;sieczna;563
+street;mehoffera;józefa mehoffera;564
+street;g³êbocka;gêbicka;565
+street;stanis³awa chudoby;chudoby stanis³awa;566
+street;skarbka z gór 124 c;skarbka z gór;567
+street;wysockiego;wysockiego piotra;568
+street;ul malborska;malborska;569
+street;sandora petöfiego;sándora petöfiego;570
+street;""" zgrupowania ak """"¿mija""""""";zgrupowania ak ¿mija;571
+street;gustawa dani³owskiego;dani³owskiego gustawa;572
+street;d¹browskiej;marii d¹browskiej;573
+street;lwa to³stoja;to³stoja lwa;574
+street;w³adys³awa reymonta;reymonta w³adys³awa;575
+street;conrada/bogus³awskiego;bogus³awskiego wojciecha;576
+street;nocznickiego;tomasza nocznickiego;577
+street;efraima schroegera;schroegera efraima;578
+street;gen. klemensa rudnickiego;rudnickiego klemensa stanis³awa;579
+street;sarbiewskiego;sarbiewskiego macieja;580
+street;henryka brodatego;henryka i brodatego;581
+street;relaksowa-kabaty;relaksowa;582
+street;jana cybisa;cybisa jana;583
+street;marco polo;marca polo;584
+street;""" bronis³awa pietraszewicza """"lota""""""";pietraszewicza bronis³awa „lota”;585
+street;jastrzêbskiego;jastrzêbia;586
+street;""" andrzeja romockiego """"morro""""""";andrzeja romockiego morro;587
+street;zygmunta pawlaczyka;pawlaczyka zygmunta;588
+street;""" jana rodowicza """"anody""""""";jana rodowicza anody;589
+street;bronikowskiego;ksawerego bronikowskiego;590
+street;gra¿yny bacewiczówny;bacewiczówny gra¿yny;591
+street;witolda ma³cu¿yñskiego;ma³cu¿yñskiego witolda;592
+street;benedykta dybowskiego;dybowskiego benedykta;593
+street;aleja jana rodowicza;jana rodowicza anody;594
+street;eugeniusza lokajskiego;lokajskiego eugeniusza;595
+street;""" mariana sengera """"cichego""""""";mariana sengera „cichego”;596
+street;edwarda dembowskiego;dembowskiego edwarda;597
+street;aleksandra janowskiego;janowskiego aleksandra;598
+street;józefa elsnera;elsnera józefa;599
+street;joliot-curie;joliot-curie fryderyka;600
+street;""" jana bytnara """"rudego""""""";jana bytnara „rudego”;601
+street;j. d¹browskiego;jaros³awa d¹browskiego;602
+street;grupy ak pó³noc;grupy ak „pó³noc”;603
+street;""" batalionu ak """"karpaty""""""";batalionu ak „karpaty”;604
+street;franciszka bartoszka;bartoszka franciszka;605
+street;kazimierza kuratowskiego;kuratowskiego kazimierza;606
+street;seweryna goszczyñskiego;goszczyñskiego seweryna;607
+street;edwarda józefa abramowskiego;abramowskiego edwarda;608
+street;ludwika pasteura;pasteura ludwika;609
+street;ul . grójecka;grójecka;610
+street;stefana banacha;baleya stefana;611
+street;siemieñsiego józefa;józefa siemieñskiego;612
+street;bitwy warszawskiej;bitwy warszawskiej 1920 r.;613
+street;stanis³awa rostworowskiego;gen. stanis³awa rostworowskiego;614
+street;chrzanowska;chrzanów;615
+street;genera³a meriana c. coopera;gen. meriana c. coopera;616
+street;u. powstañców œl¹skich;powstañców œl¹skich;617
+street;doroszewskiego;witolda doroszewskiego;618
+street;dekutowskiego;dekutowskiego hieronima ;619
+street;klemensiewicza;klemensiewicza zenona;620
+street;gen. boles³awa szareckiego;szareckiego boles³awa;621
+street;osmañczyka 16 / powstañców œl¹skich;powstañców œl¹skich;622
+street;œw. u. ledóchowskiej;ledóchowskiej urszuli;623
+street;kostki potockiego;kostki-potockiego stanis³awa;624
+street;a.rzeczypospolitej;rzeczypospolitej;625
+street;józefa teodorowicza;teodorowicza józefa;626
+street;stanis³awa lentza;lentza stanis³awa;627
+street;""" gen. antoniego chruœciela """"montera""""""";antoniego chruœciela montera;628
+street;al jerozolimskie;aleje jerozolimskie;629
+street;czes³awa k³osia;k³osia czes³awa;630
+street;cyprysowa 57 02-;cyprysowa;631
+street;zbigniewa herberta;herberta zbigniewa;632
+street;œwietokrzyska;œwiêtokrzyska;633
+street;emili plater;plater emilii;634
+street;adolfa suligowskiego;suligowskiego adolfa;635
+street;politechniki;plac politechniki;636
+street;adama idŸkowskiego;idŸkowskiego adama;637
+street;ujazdowskie piêkna;aleje ujazdowskie;638
+street;emiliana konopczyñskiego;konopczyñskiego emiliana;639
+street;zamkowy;plac zamkowy;640
+street;ujazdowskie;aleje ujazdowskie;641
+street;bankowy;plac bankowy;642
+street;bartoszewicza;juliana bartoszewicza;643
+street;nowogrodzka / krucza;nowogrodzka;644
+street;pileckiego;pileckiego witolda, rtm;645
+street;gagarina;gagarina jurija;646
+street;chroœcickiego;ks. juliana chroœcickiego;647
+street;je¿ewskiego;je¿ewskiego kazimierza;648
+street;narbutta;narbutta ludwika;649
+street;anielewicza;mordechaja anielewicza;650
+street;kamiñskiego;kamiñskiego aleksandra;651
+street;piwarskiego;piwarskiego jana feliksa;652
+street;tokarza;tokarza wac³awa;653
+street;rayskiego;rayskiego ludomi³a;654
+street;krzywoñ;krzywoñ anieli;655
+street;okiñskiego;w³adys³awa okiñskiego;656
+street;koŸmiana;koŸmiana kajetana;657
+street;baleya;baleya stefana;658
+street;magiera;magiera antoniego;659
+street;perzyñskiego;perzyñskiego w³odzimierza;660
+street;rossiniego;rossiniego gioacchino ;661
+street;szanajcy;szanajcy józefa;662
+street;bobrowskiego;bobrowskiego stefana ;663
+street;wilanowska;wilanowska;664
+street;gen. sikorskiego;aleja gen. w³adys³awa sikorskiego;665
+street;banacha;banacha stefana;666
+street;okulickiego;gen. leopolda okulickiego;667
+street;nabielaka;nabielaka ludwika;668
+street;plac niemena;plac czes³awa niemena;669
+street;nerudy;nerudy pabla;670
+neighbourhood;osiedle królewskie;wilanów królewski;671
+neighbourhood;park stawy kellera;wilanów królewski;672
+;;marymont-kaskada;673
