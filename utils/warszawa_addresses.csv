@@ -1728,6 +1728,7 @@ Praga Po³udnie;Grochów;Pu³tuska
 Praga Po³udnie;Grochów;Serocka
 Praga Po³udnie;Grochów;Skwerek Berek
 Praga Po³udnie;Grochów;Spalinowa
+Praga Po³udnie;Grochów;Stanis³awa ¯ó³kiewskiego
 Praga Po³udnie;Grochów;Stanów Zjednoczonych, al.
 Praga Po³udnie;Grochów;Stocka
 Praga Po³udnie;Grochów;Suchodolska
@@ -2078,6 +2079,7 @@ Rembertów;Stary Rembertów;Zawodowa
 Rembertów;Stary Rembertów;Zecerska
 Rembertów;Stary Rembertów;Ziemskiego „Wachnowskiego” Karola gen.
 Rembertów;Stary Rembertów;Zygmunta III
+Œródmieœcie;Mirów;Sosnowa
 Œródmieœcie;Muranów;Aleja Jana Paw³a II
 Œródmieœcie;Muranów;Alka Dawidowskiego
 Œródmieœcie;Muranów;Barokowa
@@ -2390,6 +2392,7 @@ Rembertów;Stary Rembertów;Zygmunta III
 Œródmieœcie;Œródmieœcie Pó³nocne;Marsza³kowska
 Œródmieœcie;Œródmieœcie Pó³nocne;Mazowiecka
 Œródmieœcie;Œródmieœcie Pó³nocne;Miko³aja Kopernika
+Œródmieœcie;Œródmieœcie Pó³nocne;Moniuszki Stanis³awa
 Œródmieœcie;Œródmieœcie Pó³nocne;Nieca³a
 Œródmieœcie;Œródmieœcie Pó³nocne;Nowy Œwiat
 Œródmieœcie;Œródmieœcie Pó³nocne;OboŸna
@@ -3768,7 +3771,6 @@ Weso³a;Groszówka;Sadowa
 Weso³a;Groszówka;Sagalli
 Weso³a;Groszówka;Sarenki
 Weso³a;Groszówka;Sekwoi
-Weso³a;Groszówka;Stanis³awa ¯ó³kiewskiego
 Weso³a;Groszówka;Staszica Stanis³awa
 Weso³a;Groszówka;Stwosza Wita
 Weso³a;Groszówka;Szarych Szeregów
@@ -3776,7 +3778,6 @@ Weso³a;Groszówka;Szklarniowa
 Weso³a;Groszówka;Szkolna
 Weso³a;Groszówka;Teodozji
 Weso³a;Groszówka;Wi¹zów
-Weso³a;Groszówka;Wiejska
 Weso³a;Groszówka;Wiœlana
 Weso³a;Groszówka;Zachodu S³oñca
 Weso³a;Groszówka;Zadrzewiona
@@ -3786,7 +3787,6 @@ Weso³a;Groszówka;Zapiecek
 Weso³a;Groszówka;Zdrojowa
 Weso³a;Groszówka;Z³otej Jesieni
 Weso³a;Groszówka;ródlana
-Weso³a;Groszówka;¯eromskiego Stefana
 Weso³a;Groszówka;¯wirki Franciszka
 Weso³a;Stara Mi³osna;Agatowa
 Weso³a;Stara Mi³osna;Agawy
@@ -3812,7 +3812,6 @@ Weso³a;Stara Mi³osna;Polanki
 Weso³a;Stara Mi³osna;Poœwiaty
 Weso³a;Stara Mi³osna;Promienna
 Weso³a;Stara Mi³osna;Przyleœna
-Weso³a;Stara Mi³osna;Ptasia
 Weso³a;Stara Mi³osna;S³onecznej Polany
 Weso³a;Stara Mi³osna;Stokrotki
 Weso³a;Stara Mi³osna;Szafirowa
@@ -3826,48 +3825,19 @@ Weso³a;Stara Mi³osna;Œnie¿na
 Weso³a;Stara Mi³osna;œw. Antoniego
 Weso³a;Weso³a-Centrum;Borowa
 Weso³a;Weso³a-Centrum;Hanki Sawickiej
-Weso³a;Weso³a-Centrum;ks. Piotra Skargi
-Weso³a;Weso³a-Centrum;Matejki Jana
-Weso³a;Weso³a-Centrum;Mazowiecka
-Weso³a;Weso³a-Centrum;Mi³a
-Weso³a;Weso³a-Centrum;Mokra
-Weso³a;Weso³a-Centrum;Moniuszki Stanis³awa
-Weso³a;Weso³a-Centrum;Morelowa
 Weso³a;Weso³a-Centrum;Morsztyna Jana Andrzeja
-Weso³a;Weso³a-Centrum;Narutowicza Gabriela
-Weso³a;Weso³a-Centrum;Ogrodowa
-Weso³a;Weso³a-Centrum;Okuniewska
-Weso³a;Weso³a-Centrum;Powstañców Warszawy
-Weso³a;Weso³a-Centrum;Prosta
-Weso³a;Weso³a-Centrum;Przechodnia
 Weso³a;Weso³a-Centrum;Sezamkowa
-Weso³a;Weso³a-Centrum;S³owackiego Juliusza
-Weso³a;Weso³a-Centrum;S³owicza
-Weso³a;Weso³a-Centrum;Sosnowa
 Weso³a;Weso³a-Centrum;Spó³dzielcza
-Weso³a;Weso³a-Centrum;Starzyñskiego Stefana
-Weso³a;Weso³a-Centrum;Szeroka
-Weso³a;Weso³a-Centrum;Œliska
-Weso³a;Weso³a-Centrum;Œrodkowa
-Weso³a;Weso³a-Centrum;Œwierkowa
 Weso³a;Weso³a-Centrum;Urocza
 Weso³a;Weso³a-Centrum;Warszawska
 Weso³a;Weso³a-Centrum;W¹ska
 Weso³a;Weso³a-Centrum;Wczasowa
-Weso³a;Weso³a-Centrum;Wierzbowa
-Weso³a;Weso³a-Centrum;Wilanowska
-Weso³a;Weso³a-Centrum;Wiœniowa
 Weso³a;Weso³a-Centrum;Wroñskiego Stanis³awa
 Weso³a;Weso³a-Centrum;Wrzosowa
-Weso³a;Weso³a-Centrum;Wschodnia
-Weso³a;Weso³a-Centrum;Wspólna
-Weso³a;Weso³a-Centrum;Wspó³czesna
 Weso³a;Weso³a-Centrum;Zachodnia
-Weso³a;Weso³a-Centrum;Zaciszna
 Weso³a;Weso³a-Centrum;Zak¹tek
 Weso³a;Weso³a-Centrum;Zau³ek
 Weso³a;Weso³a-Centrum;¯eglarska
-Weso³a;Weso³a-Centrum;¯ytnia
 Weso³a;Wola Grzybowska;Armii Krajowej
 Weso³a;Wola Grzybowska;Bartosza G³owackiego
 Weso³a;Wola Grzybowska;Kostki-Napierskiego Aleksandra
@@ -3875,15 +3845,10 @@ Weso³a;Wola Grzybowska;Lipowa
 Weso³a;Wola Grzybowska;Ma³a
 Weso³a;Wola Grzybowska;Mchów
 Weso³a;Wola Grzybowska;Modrzewiowa
-Weso³a;Wola Grzybowska;Orla
-Weso³a;Wola Grzybowska;Parkowa
-Weso³a;Wola Grzybowska;Syrokomli W³adys³awa
 Weso³a;Wola Grzybowska;Wiosenna
 Weso³a;Wola Grzybowska;Wydmowa
 Weso³a;Zielona-Grzybowa;£aguny Antoniego Pankracego
 Weso³a;Zielona-Grzybowa;Malinowa
-Weso³a;Zielona-Grzybowa;Podleœna
-Weso³a;Zielona-Grzybowa;Polna
 Weso³a;Zielona-Grzybowa;Przejazdowa
 Weso³a;Zielona-Grzybowa;Wincentego Pstrowskiego
 Wilanów;B³onia Wilanowskie;Branickiego Adama
